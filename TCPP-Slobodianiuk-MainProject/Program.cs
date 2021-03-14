@@ -6,7 +6,7 @@ namespace TCPP_Slobodianiuk_MainProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Donnu!");
+            Console.Write("Hello Donnu!");
         }
     }
 }
