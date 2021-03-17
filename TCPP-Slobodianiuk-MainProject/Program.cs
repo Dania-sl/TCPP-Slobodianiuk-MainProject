@@ -6,7 +6,7 @@ namespace TCPP_Slobodianiuk_MainProject
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello Donnu!");
+            Console.Write("Hello Donnu from browser!");
             Console.Write("Змінено з IDE!");
         }
     }
