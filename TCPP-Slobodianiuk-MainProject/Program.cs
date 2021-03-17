@@ -10,7 +10,8 @@ namespace TCPP_Slobodianiuk_MainProject
             Console.Write("Hello Donnu from browser!");
             Console.Write("Hello Donnu from IDE!");
             Console.Write("Змінено з IDE!");
+            Console.Write("Hello Donnu!");
+            Console.Write("Змінено з IDE!");
         }
     }
 }
-
